@@ -1,0 +1,20 @@
+{
+  "ExtendedData": {
+    "inputs": [
+      "https://tckimlik.nvi.gov.tr/Service/KPSPublic.asmx?WSDL"
+    ],
+    "collectionTypes": [
+      "System.Array",
+      "System.Collections.Generic.Dictionary`2"
+    ],
+    "namespaceMappings": [
+      "*, IdentityNumberVerifyService"
+    ],
+    "references": [
+      "C:\\Users\\yazilim03\\source\\repos\\PatronBackendApi\\PatronApi\\obj\\Release\\net6.0\\PubTmp\\Out\\Business.dll"
+     
+    ],
+    "targetFramework": "net6.0",
+    "typeReuseMode": "Specified"
+  }
+}
